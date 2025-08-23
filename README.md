@@ -83,11 +83,5 @@ pyPiper, tqdm, imutils, face_recognition, dlib, warnings, sklearn
     <li><strong>Inaccurate Clustering?</strong> → Ensure video has clear and bright face images. Use longer video clips (2+ minutes).</li>
   </ul>
 
-  <h2 style="color: #34495e;">📚 References</h2>
-  <p>
-    - Based on concepts from <strong>PyImageSearch</strong> and <strong>dlib face recognition</strong>.<br>
-    - Full source code available on GitHub.
-  </p>
-
 </body>
 </html>
