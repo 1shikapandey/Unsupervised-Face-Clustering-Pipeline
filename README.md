@@ -68,7 +68,7 @@ pyPiper, tqdm, imutils, face_recognition, dlib, warnings, sklearn
     <li><strong>Driver.py</strong> – Main entry point to execute pipeline</li>
   </ul>
 
-  <h2 style="color: #34495e;">🖼️ Output</h2>
+  <h2 style="color: #34495e;">Output</h2>
   <ul>
     <li>Clustered face folders: <code>ClusteredFaces/Face_X/</code></li>
     <li>YOLO-style annotation files</li>
