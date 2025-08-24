@@ -3,9 +3,9 @@
 
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
 
-  <h1 style="color: #2c3e50;">ML | Unsupervised Face Clustering Pipeline</h1>
+  <h1 style="color: #2c3e50;">Unsupervised Face Clustering Pipeline</h1>
 
-  <h2 style="color: #34495e;">📌 Overview</h2>
+  <h2 style="color: #34495e;">Overview</h2>
   <p>
     Live face-recognition is still a major challenge for automated security systems. 
     With the advancements in Convolutional Neural Networks (CNNs) and Region-CNN techniques, 
@@ -15,7 +15,7 @@
     with minimal user labeling effort.
   </p>
 
-  <h2 style="color: #34495e;">🚀 Proposed Solution</h2>
+  <h2 style="color: #34495e;">Proposed Solution</h2>
   <h3>Introduction</h3>
   <p>
     The system processes a video clip, extracts all faces, and clusters them into distinct groups. 
