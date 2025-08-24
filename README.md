@@ -43,7 +43,7 @@
     <li><strong>Output:</strong> Clustered face images grouped by identity</li>
   </ul>
 
-  <h2 style="color: #34495e;">📦 Dependencies</h2>
+  <h2 style="color: #34495e;">Dependencies</h2>
   <p>Required Python 3 modules:</p>
   <pre style="background:#f4f4f4; padding:10px; border-radius:5px;">
 os, cv2, numpy, tensorflow, json, re, shutil, time, pickle, 
