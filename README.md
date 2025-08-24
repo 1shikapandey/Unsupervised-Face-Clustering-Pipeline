@@ -75,7 +75,7 @@ pyPiper, tqdm, imutils, face_recognition, dlib, warnings, sklearn
     <li>Montages of clustered faces</li>
   </ul>
 
-  <h2 style="color: #34495e;">🛠️ Troubleshooting</h2>
+  <h2 style="color: #34495e;">Troubleshooting</h2>
   <ul>
     <li><strong>PC Freezes?</strong> → Reduce frame size during extraction. Avoid too small sizes for better clustering.</li>
     <li><strong>High CPU Usage?</strong> → Lower number of threads in pipeline constructor.</li>
