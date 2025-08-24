@@ -50,7 +50,7 @@ os, cv2, numpy, tensorflow, json, re, shutil, time, pickle,
 pyPiper, tqdm, imutils, face_recognition, dlib, warnings, sklearn
   </pre>
 
-  <h2 style="color: #34495e;">🧑‍💻 Code Structure</h2>
+  <h2 style="color: #34495e;">Code Structure</h2>
   <ul>
     <li><strong>FaceClusteringLibrary.py</strong> – Contains all class definitions
       <ul>
