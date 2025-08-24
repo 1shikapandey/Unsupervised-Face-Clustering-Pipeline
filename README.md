@@ -37,7 +37,7 @@
     <li>Frame resizing for smoother processing.</li>
   </ul>
 
-  <h2 style="color: #34495e;">⚙️ Input / Output</h2>
+  <h2 style="color: #34495e;">Input / Output</h2>
   <ul>
     <li><strong>Input:</strong> <code>Footage.mp4</code></li>
     <li><strong>Output:</strong> Clustered face images grouped by identity</li>
