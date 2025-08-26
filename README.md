@@ -6,14 +6,7 @@
   <h1 style="color: #2c3e50;">Unsupervised Face Clustering Pipeline</h1>
 
   <h2 style="color: #34495e;">Overview</h2>
-  <p>
-    Live face-recognition is still a major challenge for automated security systems. 
-    With the advancements in Convolutional Neural Networks (CNNs) and Region-CNN techniques, 
-    supervised models such as <strong>FaceNet</strong> and <strong>YOLO</strong> can perform real-time recognition. 
-    However, supervised training requires large, labeled datasets, which are costly and time-consuming to build. 
-    This project introduces an <strong>unsupervised pipeline</strong> to automatically generate datasets 
-    with minimal user labeling effort.
-  </p>
+
 
   <h2 style="color: #34495e;">Proposed Solution</h2>
   <h3>Introduction</h3>
