@@ -14,7 +14,7 @@
     This project introduces an <strong>unsupervised pipeline</strong> to automatically generate datasets 
     with minimal user labeling effort.
   </p>
-
+  
   <h2 style="color: #34495e;">Proposed Solution</h2>
   <h3>Introduction</h3>
   <p>
