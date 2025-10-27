@@ -4,7 +4,7 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
   
   <h1 style="color: #2c3e50;">Unsupervised Face Clustering Pipeline </h1>
-  
+
   <h2 style="color: #34495e;">Overview</h2>
   <p>
     Live face-recognition is still a major challenge for automated security systems. 
